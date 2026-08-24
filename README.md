@@ -6,6 +6,19 @@
 ## About Me
 I love being an engineer. Problem solving and learning is what I love. I'm just generally curious and being an engineer lets me hone my curiosity into tangible and useful projects. 
 
+### Languages and Tools
+---
+<a href="https://github.com/Alishah634?tab=followers">
+  <img src="https://img.shields.io/badge/FOLLOW-blue?logo=github&logoColor=white&style=for-the-badge" alt="Follow">
+</a>
+<a href="https://github.com/Alishah634?tab=stars">
+  <img src="https://img.shields.io/badge/STARS-green?logo=star&logoColor=white&style=for-the-badge" alt="Stars">
+</a>
+<a href="https://alishah634.github.io">
+  <img src="https://img.shields.io/badge/PORTFOLIO-purple?logo=web&logoColor=white&style=for-the-badge" alt="Portfolio">
+</a>
+
+
 ## What I'm Up To
 * **🔭 I’m currently working on:** Doberman, an open-source MCP proxy providing runtime security guardrails to protect AI agents from prompt injection and block data exfiltration.
 * **🌱 I’m currently learning:** Reverse engineering, operating system (review), PCB design and refreshing my knowledge on LLM architecture.
