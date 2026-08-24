@@ -1,4 +1,4 @@
-name: GitHub-Profile-Summary-Cards
+name: Generate GitHub Stats
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  build-summary-cards:
     runs-on: ubuntu-latest
     name: generate-github-cards
     permissions:
@@ -19,16 +19,9 @@ jobs:
         with:
           USERNAME: ${{ github.repository_owner }}
 
-name: GitHub Metrics
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  github-metrics:
+  generate-metrics:
     runs-on: ubuntu-latest
+    name: generate-language-metrics
     permissions:
       contents: write
     steps:
