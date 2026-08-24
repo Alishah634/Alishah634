@@ -15,7 +15,7 @@ I love being an engineer. Problem solving and learning is what I love. I'm just 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Alishah634/Alishah634/main/profile-summary-card-output/algolia/2-most-commit-language.svg" width="33%" alt="Top Languages by Commit" />
-  <img src="https://raw.githubusercontent.com/Alishah634/Alishah634/main/profile-summary-card-output/algolia/4-productive-time.svg" width="34%" alt="Commits Productive Time" />
+  <img src="https://raw.githubusercontent.com/Alishah634/Alishah634/main/profile-summary-card-output/algolia/4-productive-time.svg" width="33%" alt="Commits Productive Time" />
   <img src="https://raw.githubusercontent.com/Alishah634/Alishah634/main/profile-summary-card-output/algolia/1-repos-per-language.svg" width="33%" alt="Top Languages by Repo" />
 </p>
 
