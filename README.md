@@ -9,12 +9,18 @@ I love being an engineer. Problem solving and learning is what I love. I'm just 
 
 ### 📊 Stats
 ---
-![](https://raw.githubusercontent.com/Alishah634/Alishah634/main/profile-summary-card-output/algolia/0-profile-details.svg)
-![](https://raw.githubusercontent.com/Alishah634/Alishah634/main/profile-summary-card-output/algolia/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/Alishah634/Alishah634/main/profile-summary-card-output/algolia/2-most-commit-language.svg)
+<a href="https://github.com/Alishah634">
+  <img src="https://raw.githubusercontent.com/Alishah634/Alishah634/main/profile-summary-card-output/algolia/0-profile-details.svg" width="100%" alt="GitHub Profile Details" />
+</a>
 
-![](https://raw.githubusercontent.com/Alishah634/Alishah634/main/profile-summary-card-output/algolia/4-productive-time.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Alishah634/Alishah634/main/profile-summary-card-output/algolia/2-most-commit-language.svg" width="49%" alt="Top Languages by Commit" />
+  <img src="https://raw.githubusercontent.com/Alishah634/Alishah634/main/profile-summary-card-output/algolia/4-productive-time.svg" width="49%" alt="Commits Productive Time" />
+</p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Alishah634/Alishah634/main/profile-summary-card-output/algolia/1-repos-per-language.svg" width="49%" alt="Top Languages by Repo" />
+</p>
 
 ## What I'm Up To
 * **🔭 I’m currently working on:** Doberman, an open-source MCP proxy providing runtime security guardrails to protect AI agents from prompt injection and block data exfiltration.
