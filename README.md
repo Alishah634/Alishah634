@@ -6,6 +6,16 @@
 ## About Me
 I love being an engineer. Problem solving and learning is what I love. I'm just generally curious and being an engineer lets me hone my curiosity into tangible and useful projects. 
 
+
+### 📊 Stats
+---
+<p align="center">
+  <img src="profile-summary-card-output/dark/0-profile-details.svg" alt="GitHub stats" />
+</p>
+<p align="center">
+  <img src="profile-summary-card-output/dark/1-top-langs.svg" alt="Top Languages" />
+</p>
+
 ## What I'm Up To
 * **🔭 I’m currently working on:** Doberman, an open-source MCP proxy providing runtime security guardrails to protect AI agents from prompt injection and block data exfiltration.
 * **🌱 I’m currently learning:** Reverse engineering, operating system (review), PCB design and refreshing my knowledge on LLM architecture.
