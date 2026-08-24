@@ -9,12 +9,22 @@ I love being an engineer. Problem solving and learning is what I love. I'm just 
 
 ### 📊 Stats
 ---
-<p align="center">
-  <img src="profile-summary-card-output/dark/0-profile-details.svg" alt="GitHub stats" />
-</p>
-<p align="center">
-  <img src="top-langs.svg" alt="Top Languages" />
-</p>
+<!-- <p align="center"> -->
+<!--   <img src="profile-summary-card-output/algolia/0-profile-details.svg" alt="GitHub stats" /> -->
+<!-- </p> -->
+<!---->
+<!-- <p align="center"> -->
+<!--   <img src="profile-summary-card-output/algolia/2-most-commit-language.svg" alt="GitHub Commit Languages" /> -->
+<!-- </p> -->
+<!---->
+<!-- <p align="center"> -->
+<!--   <img src="profile-summary-card-output/algolia/4-productive-time.svg" alt="GitHub Prodcutive time" /> -->
+<!-- </p> -->
+
+![](https://raw.githubusercontent.com/Alishah634/Alishah634/main/profile-summary-card-output/algolia/0-profile-details.svg)
+![](https://raw.githubusercontent.com/Alishah634/Alishah634/main/profile-summary-card-output/algolia/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/Alishah634/Alishah634/main/profile-summary-card-output/algolia/4-productive-time.svg)
+
 
 ## What I'm Up To
 * **🔭 I’m currently working on:** Doberman, an open-source MCP proxy providing runtime security guardrails to protect AI agents from prompt injection and block data exfiltration.
