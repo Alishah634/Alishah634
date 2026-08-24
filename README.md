@@ -3,17 +3,19 @@
 <!--
 **Alishah634/Alishah634** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+## About Me
+I love being an engineer. Problem solving and learning is what I love. I'm just generally curious and being an engineer lets me hone my curiosity into tangible and useful projects. 
 
+## What I'm Up To
 * **🔭 I’m currently working on:** Doberman, an open-source MCP proxy providing runtime security guardrails to protect AI agents from prompt injection and block data exfiltration.
-* **🌱 I’m currently learning:** Evaluating machine learning models using scikit-learn and XGBoost on performance monitoring counter datasets, and optimizing custom Lua configurations in Neovim.
-* **👯 I’m looking to collaborate on:** Open-source hardware security projects leveraging ARM TrustZone and Secure Boot[cite: 1], or scalable Go-based REST services.
-* **🤔 I’m looking for help with:** Expanding my Linux homelab architecture, specifically tuning self-hosted media and audiobook servers on Raspberry Pi hardware.
-* **💬 Ask me about:** Implementing secure privilege transitions in TEEs, engineering flight control firmware for 1000+ RPM thrust-vector drones, or developing automated CI/CD grading infrastructures. 
+* **🌱 I’m currently learning:** Reverse engineering, operating system (review), PCB design and refreshing my knowledge on LLM architecture.
+* **👯 I’m looking to collaborate on:** Open-source hardware/software security projects. 
+* ’m looking for help with:** Gaining more Cybersecurity experience.
+* **💬 Ask me about:** * My Linux homelab architecture, engineering flight control firmware for single motor thrust-vector drones, or developing automated CI/CD grading infrastructures and optimizing custom Lua configurations in Neovim.
 * **📫 How to reach me:** You can reach me via email at ali.a.shah.work@gmail.com or connect with me on LinkedIn at [linkedin.com/in/syed-ali-shah01/](https://linkedin.com/in/syed-ali-shah01/).
 * **😄 Pronouns:** He/Him
-* **⚡ Fun fact:** I engineered a 10-inch single-motor drone that relies on continuous rotation and real-time computer vision (SIFT/RANSAC) to de-rotate the live video feed for the pilot! When I'm away from a keyboard, you can usually find me rebuilding my 3D printer hardware or competing in go-kart racing heats.
-
-* 
+* **⚡ Fun fact:** I engineered a 10-inch single-motor drone that relies on continuous rotation and real-time computer vision (SIFT/RANSAC) to de-rotate the live video feed for the pilot! When I'm away from a keyboard, you can usually find me working on personal projects, playing chess, lumosity games, or cooking. 
+  
 <!--
 **Alishah634/Alishah634** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
