@@ -13,7 +13,7 @@ I love being an engineer. Problem solving and learning is what I love. I'm just 
   <img src="profile-summary-card-output/dark/0-profile-details.svg" alt="GitHub stats" />
 </p>
 <p align="center">
-  <img src="profile-summary-card-output/dark/1-top-langs.svg" alt="Top Languages" />
+  <img src="top-langs.svg" alt="Top Languages" />
 </p>
 
 ## What I'm Up To
