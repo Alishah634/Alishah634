@@ -18,7 +18,6 @@ I love being an engineer. Problem solving and learning is what I love. I'm just 
   <img src="https://img.shields.io/badge/PORTFOLIO-purple?logo=web&logoColor=white&style=for-the-badge" alt="Portfolio">
 </a>
 
-
 ### 📊 Stats
 ---
 <p align="center">
