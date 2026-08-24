@@ -4,7 +4,7 @@
 **Alishah634/Alishah634** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ## About Me
-I love being an engineer. Problem solving and learning is what I love. I'm just generally curious and being an engineer lets me hone my curiosity into tangible and useful projects. I focused on AI/ML in and embedded systems in undergrad. I've completed my Master's and spent that time on AI/ML, embedded systems, automatic controls(wanted to learn more mechanics). As a hobby, I spend my time learning about hardware/software security, which I do have some academic training in from my Masters and prior job. I know all of this is nerdy and a little scattered but like I said, I like learning and I chose this field as my career because I get to be curious and problem solve on the daily, so it's not really work for me, it's an excuse to do what I love.
+I love being an engineer. Problem solving and learning is what excites me. I'm just generally curious and being an engineer lets me hone my curiosity into tangible and useful projects. I focused on AI/ML in and embedded systems in undergrad. I've completed my Master's and spent that time on AI/ML, embedded systems, automatic controls(wanted to learn more mechanics). As a hobby, I spend my time learning about hardware/software security, which I do have some academic training in from my Masters and prior job. I know all of this is nerdy and a little scattered but like I said, I like learning and I chose this field as my career because I get to be curious and problem solve on the daily, so it's not really work for me, it's an excuse to do what I love.
 
 
 ### 📊 Stats
