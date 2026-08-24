@@ -19,6 +19,15 @@ I love being an engineer. Problem solving and learning is what I love. I'm just 
 </a>
 
 
+### 📊 Stats
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alishah634&show_icons=true&theme=dark" alt="Ali's GitHub stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alishah634&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
 ## What I'm Up To
 * **🔭 I’m currently working on:** Doberman, an open-source MCP proxy providing runtime security guardrails to protect AI agents from prompt injection and block data exfiltration.
 * **🌱 I’m currently learning:** Reverse engineering, operating system (review), PCB design and refreshing my knowledge on LLM architecture.
