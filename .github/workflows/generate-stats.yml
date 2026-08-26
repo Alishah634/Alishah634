@@ -13,22 +13,24 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v3
+
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GH_METRICS_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
+          # Tell the action NOT to push automatically so it doesn't crash:
+          # (Check the action's README for its specific "skip push" or custom flag if it has one, 
+          # OR manually commit & push right after using the steps below)
 
-  generate-metrics:
-    runs-on: ubuntu-latest
-    name: generate-language-metrics
-    permissions:
-      contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: top-langs.svg
-          token: ${{ secrets.GH_METRICS_TOKEN }}
-          base: ""
-          plugin_languages: yes
-          plugin_languages_details: percentage
+      # Manually handle commit, sync, and push cleanly:
+      - name: Commit and push generated profile cards
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add profile-summary-card-output/
+          git status
+          git commit -m "chore: update generated profile summary cards" || exit 0
+          git pull --rebase origin main
+          git push origin main
+
